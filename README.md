@@ -1,5 +1,5 @@
 # Lost
-A work in progress rouge-like based on Risk of Rain 2
+A work in progress Roguelike based on Risk of Rain 2
 
 I will be re-doing the project in a different game engine, as the breaking changes each Bevy update has provided issues.
 
