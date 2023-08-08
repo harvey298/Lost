@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "LostClient",
+    "LostServer",
+    "LostLib"
+]
+
+[profile.dev]
+opt-level = 0
+
+[profile.dev.package."*"]
+opt-level = 0
